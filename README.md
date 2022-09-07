@@ -9,7 +9,7 @@
 
 [![Iris’s github stats](https://github-readme-stats.vercel.app/api?username=helloiris0216)](https://github.com/helloiris0216)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/helloiris0216)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloiris0216&layout=compact)](https://github.com/helloiris0216)
 
 </br>
 
