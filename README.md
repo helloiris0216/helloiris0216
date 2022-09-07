@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![image](https://user-images.githubusercontent.com/68455059/188770601-431aa058-05f9-49c3-aef3-81bf0a6e4245.png)][1] [![image](https://user-images.githubusercontent.com/68455059/188770781-6ae83f04-1db3-498f-a380-487fdffd8a3f.png)][2]
+
+[1]: https://www.linkedin.com/in/hsinyi-yen-677a71235/
+[2]: https://helloiris0216.medium.com/about
