@@ -5,7 +5,7 @@
 
 [1]: https://www.linkedin.com/in/hsinyi-yen-677a71235/
 [2]: https://helloiris0216.medium.com/about
-[3]: https://github.com/helloiris0216/helloiris0216/blob/master/README.md
+[3]: https://github.com/helloiris0216
 
 </br>
 
@@ -56,11 +56,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 Languges and tools
 
-[![linkedin](https://github.com/helloiris0216/helloiris0216/blob/master/linkedinIcon.png)][1]
-[![mediumIcon](https://github.com/helloiris0216/helloiris0216/blob/master/mediumIcon.png)][2]
-<img src="https://github.com/helloiris0216/helloiris0216/blob/master/linkedinIcon.png" width="48">[1]
-<img src="https://github.com/helloiris0216/helloiris0216/blob/master/mediumIcon.png" width="48">[2]
-
 <div>
   <a href= "https://www.linkedin.com/in/hsinyi-yen-677a71235/">
     <img align=top src="https://github.com/helloiris0216/helloiris0216/blob/master/linkedinIcon.png" width="24">
@@ -69,13 +64,6 @@ Here are some ideas to get you started:
     <img align=top src="https://github.com/helloiris0216/helloiris0216/blob/master/mediumIcon.png" width="24">
   </a>
 </div>
-
-[1]: https://www.linkedin.com/in/hsinyi-yen-677a71235/
-[2]: https://helloiris0216.medium.com/about
-
-[![Iris’s github stats](https://github-readme-stats.vercel.app/api?username=helloiris0216)](https://github.com/helloiris0216)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloiris0216&layout=compact)](https://github.com/helloiris0216)
 -->
 
 
