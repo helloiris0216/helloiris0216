@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![linkedin](https://github.com/helloiris0216/helloiris0216/blob/master/linkedinIcon.png)][1]
+[![mediumIcon](https://github.com/helloiris0216/helloiris0216/blob/master/mediumIcon.png)][2]
 -->
 
-[![linkedin](https://user-images.githubusercontent.com/68455059/188770601-431aa058-05f9-49c3-aef3-81bf0a6e4245.png)][1]
-[![mediumIcon](https://user-images.githubusercontent.com/68455059/188771461-73db11ea-327b-4827-b6cc-e45900ec5dcb.png)
-][2]
+<img src="https://github.com/helloiris0216/helloiris0216/blob/master/linkedinIcon.png" width="48">[1]
+<img src="https://github.com/helloiris0216/helloiris0216/blob/master/mediumIcon.png" width="48">[2]
 
 [1]: https://www.linkedin.com/in/hsinyi-yen-677a71235/
 [2]: https://helloiris0216.medium.com/about
