@@ -29,7 +29,7 @@
 </br>
 
 ## 🌱 I'm currently learning
-- LeedCode
+- LeetCode
 - MVVM
 - Kotlin
 
